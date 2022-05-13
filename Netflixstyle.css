@@ -1,0 +1,51 @@
+/*Hello There. Do Enjoy scanning my CSS. I had fun recreating this.*/
+/*Let me know what you think*/
+/*FYI this was just for fun :-) */
+
+body {
+    margin: 0; 
+    padding: 5px;
+    background-color: #0A0A0A;
+}
+  
+
+.heading {
+  background-color:  #0A0A0A;
+  color: #F80F0F ;
+  text-align: Left;
+  font-family: Monaco, Monospace;
+  margin-top: 20px;
+  margin-left: 13px;
+  margin-bottom: 50px;
+  font-size: 25px;
+}
+
+.title {
+  background-color:  #0A0A0A;
+  color: #FFFFFF;
+  text-align: Center;
+  font-family: Arial, sans-serif;
+  font-weight: lighter;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+
+.imagetext {
+
+  color: #B9B8B8;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+   Padding: 55px;
+}
+
+.imageposition {
+  background-color:  #0A0A0A;
+  text-align: center;
+}
+
+
+a {
+  color: #0A0A0A;
+  Padding: 10px;
+}
